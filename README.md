@@ -8,8 +8,7 @@ and rate educational content.
 ence for students, making education more accessible and engaging and a platform for instructors to show-
 case their expertise and connect with learners across the globe.
 
->> Technology used : ReactJS ,NodeJs , ExpressJS ,Mon-
-goDB .
+>> Technology used : ReactJS ,NodeJs , ExpressJS ,MongoDB .
 
 #To use this project
 1) Download the codes.
